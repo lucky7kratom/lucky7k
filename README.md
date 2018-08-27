@@ -48,9 +48,10 @@ _Add $5 for splits_
 
 **Free Delivery on Sixteen Ounces or more**
 
-### Ordering Form
+### Ready to Order?
 
-Please include your name with your order, and whether you prefer to complete your order with Paypal or Venmo!
+Place your order including contact information as well as preffered method of delivery via email or text message to: 
 
-<form action="http://formspree.io/lucky7kratom@gmail.com"><input type="email" name="_replyto">
-<textarea name="body"></textarea><input type="submit" value="Send"></form>
+**lucky7kratom@gmail.com**
+
+**404-590-5708**
