@@ -52,4 +52,4 @@ _Add $5 for splits_
 
 Please include your name with your order, and whether you prefer to complete your order with Paypal or Venmo!
 
-<form action="http://formspree.io/lucky7kratom@gmail.com"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
+<form action="http://formspree.io/lucky7kratom@gmail.com"><input type="email" name="_replyto"><textarea name="body"></textarea><input type="submit" value="Send"></form>
