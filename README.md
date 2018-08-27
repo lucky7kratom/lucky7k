@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
+## Lucky 7 Kratom
 
-You can use the [editor on GitHub](https://github.com/lucky7kratom/lucky7k/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Home of The $7 Ounce
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our kratom is of the highest quality and always guaranteed fresh with absolutely no additives!  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+#### Now Offering Local Delivery!
+We deliver anywhere inside the Oklahoma City area at only 50 cents a mile, or can arrange for pick up if preferred! If you happen to not be in our area fear not, we also offer online orders via paypal, venmo, and in the very near future crypto.
 ```markdown
 Syntax highlighted code block
 
