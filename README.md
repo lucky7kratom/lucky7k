@@ -10,21 +10,25 @@ We deliver anywhere inside the Oklahoma City area at only 50 cents a mile, or ca
 ### Menu
 
 **Green King Kong**
+
 _Out of Stock_
 
 ({{ site.url }}/assets/Green-King-Kong.png)
 
 **White King Kong**
+
 _In Stock_
 
 ({{ site.url }}/assets/White-King-Kong.png)
 
 **Red Bali**
+
 _Out of Stock_
 
 ({{ site.url }}/assets/Red-Bali.png)
 
 **Yellow King-Bali**
+
 _Out of Stock_
 
 ({{ site.url }}/assets/King-Bali.png)
@@ -33,8 +37,11 @@ _Out of Stock_
 ### Price List
 
 One Ounce: $7
+
 Four Ounces: $25
+
 Eight Ounces: $45
+
 Sixteen Ounces: $80
 
 _Add $5 for splits_
