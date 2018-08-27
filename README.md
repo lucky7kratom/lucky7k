@@ -52,6 +52,6 @@ _Add $5 for splits_
 
 Place your order including contact information as well as preffered method of delivery via email or text message to: 
 
-**lucky7kratom@gmail.com**
+lucky7kratom@gmail.com
 
 **404-590-5708**
