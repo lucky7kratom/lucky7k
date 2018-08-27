@@ -45,6 +45,8 @@ Sixteen Ounces: $80
 
 _Add $5 for splits_
 
+_Add $5 for Shipping_
+
 **Free Delivery on Sixteen Ounces or more**
 
 ### Ready to Order?
