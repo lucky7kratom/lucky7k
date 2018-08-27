@@ -19,19 +19,19 @@ _Out of Stock_
 
 _In Stock_
 
-![White Kratom]({{ site.url }}/assets/White-kratom.jpg)
+![White Kratom](/assets/White-kratom.jpg)
 
 **Red Bali**
 
 _Out of Stock_
 
-![Red Kratom]({{ site.url }}/assets/red-bali.png)
+![Red Kratom](/assets/red-bali.png)
 
 **Yellow King-Bali**
 
 _Out of Stock_
 
-![Yellow Kratom]({{ site.url }}/assets/yellow-kratom.jpg)
+![Yellow Kratom](/assets/yellow-kratom.jpg)
 
 ### Price List
 
