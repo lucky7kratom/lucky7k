@@ -13,26 +13,25 @@ We deliver anywhere inside the Oklahoma City area at only 50 cents a mile, or ca
 
 _Out of Stock_
 
-({{ site.url }}/assets/Green-King-Kong.png)
+![Green Kratom]({{ site.url }}/assets/green-kratom.jpeg)
 
 **White King Kong**
 
 _In Stock_
 
-({{ site.url }}/assets/White-King-Kong.png)
+![White Kratom]({{ site.url }}/assets/White-kratom.jpg)
 
 **Red Bali**
 
 _Out of Stock_
 
-({{ site.url }}/assets/Red-Bali.png)
+![Red Kratom]({{ site.url }}/assets/red-bali.png)
 
 **Yellow King-Bali**
 
 _Out of Stock_
 
-({{ site.url }}/assets/King-Bali.png)
-
+![Yellow Kratom]({{ site.url }}/assets/yellow-kratom.jpg)
 
 ### Price List
 
