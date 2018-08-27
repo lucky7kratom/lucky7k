@@ -13,7 +13,7 @@ We deliver anywhere inside the Oklahoma City area at only 50 cents a mile, or ca
 
 _Out of Stock_
 
-![Green Kratom]({{ site.url }}/assets/green-kratom.jpeg)
+![Green Kratom](/assets/green-kratom.jpeg)
 
 **White King Kong**
 
